@@ -1,0 +1,12 @@
+/** 
+ * Crea una funcion que reciba una lista 
+ * y un elemento como paramétricos
+ * y elimine el elemento de
+ * la lista si se encuentra en ella
+ */
+function borrarElementosDelaLista(lista, elemento){
+}
+    for (var i=0; i<lista.length; i++){
+      if(lista[1]) == elemento {
+          return false;
+    }
