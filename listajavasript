@@ -1,0 +1,7 @@
+/***
+ * Crea una lista de numeros del  1 al 10
+ * utilizando un bucle for
+ */
+var lista = [];
+for(var i=0; i<=10; i++){}
+    lista push 
