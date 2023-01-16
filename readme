@@ -1,0 +1,6 @@
+/*** Crea una lista de fruta y verduras utilizando un array literal 
+*/
+var numero = 3;
+var texto = "tres";
+
+var nombreFRutas =["fresas", "melocotón", "pera"]
