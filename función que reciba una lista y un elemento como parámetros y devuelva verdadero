@@ -1,0 +1,14 @@
+/** 
+ * Crea una funcion que reciba una
+ * lista y un elemento como parámetros
+ * y devuelva verdadero si el elemento
+ * se encuentra en la lista,
+ * o falso en caso contrario 
+ *
+ */
+function seEncuentranEnlistaElemento(lista, element){
+    for(var i=0; i<lista.length; i++){
+        if(lista[1]) == elemento {
+            return true;
+
+        }
