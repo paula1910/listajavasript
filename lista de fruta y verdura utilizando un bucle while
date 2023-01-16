@@ -1,0 +1,10 @@
+
+/** 
+ * Recorre la lista de frutas
+ * y verduras utilizando un bucle while
+ * y muestra cada elemento en la consola
+ */
+var i=0;
+while( j < nombreFRutas.length   ){}
+    alert(nombreFRutas[j]);
+    j = j + 1;
